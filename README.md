@@ -30,7 +30,7 @@
 <a href="https://instagram.com/araf_dewan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="araf_dewan_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/araf dewan vlogs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="araf dewan vlogs" height="30" width="40" /></a>
 </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arafdewann&show_icons=true&count_private=true&include_all_commits=true
+<p align="center"> <a href="https://github-readme-stats.vercel.app/api?username=arafdewann&show_icons=true&count_private=true&include_all_commits=true
 " alt="arafdewann" /> </p>
 
 
