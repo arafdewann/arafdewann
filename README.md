@@ -1,5 +1,8 @@
 <h1 align="center">Hey! It's MD ARAFAT KOYES</h1>
-<h3 align="center">"Programming Enthusiast | Aspiring Cloud & DevOps Engineer"</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+MD+ARAFAT+KOYES!" alt="Hey, I'm MD ARAFAT KOYES!" />
+</p>
+
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arafdewann&label=Profile%20views&color=0e75b6&style=flat" alt="arafdewann" /> </p>
 
