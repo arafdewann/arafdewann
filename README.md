@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJ6aHNsdzN4aXhvd2JocWxhZTd6bG45eDdpcjB5Y3E0eHA3emg0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="arafdewann" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arafdewann" alt="arafdewann" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arafdewann" alt="lines" /></a> </p>
 
 - 🔭 I’m currently working on **Amazon Web Services (AWS) DevOps PROJECT**
 
