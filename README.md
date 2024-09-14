@@ -1,6 +1,7 @@
 <h1 align="center">Hey! It's MD ARAFAT KOYES</h1>
 <h3 align="center">"Programming Enthusiast | Aspiring Cloud & DevOps Engineer"</h3>
- ![GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJ6aHNsdzN4aXhvd2JocWxhZTd6bG45eDdpcjB5Y3E0eHA3emg0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp)
+ ![GIF](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafdewann&label=Profile%20views&color=0e75b6&style=flat" alt="arafdewann" /> </p>
