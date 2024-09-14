@@ -2,6 +2,7 @@
 <h3 align="center">"Programming Enthusiast | Aspiring Cloud & DevOps Engineer"</h3>
  ![GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJ6aHNsdzN4aXhvd2JocWxhZTd6bG45eDdpcjB5Y3E0eHA3emg0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp)
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafdewann&label=Profile%20views&color=0e75b6&style=flat" alt="arafdewann" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arafdewann" alt="arafdewann" /></a> </p>
