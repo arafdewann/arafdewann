@@ -14,15 +14,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=arafdewann&show_icons=true&theme=transparent&count_private=true" style="max-width: 40%; height: auto;">
 </div>
 
-- 🔭 I’m currently working on **Amazon Web Services (AWS) DevOps PROJECT**
+-  I’m currently working on **Amazon Web Services (AWS) DevOps PROJECT**
 
-- 🌱 I’m currently learning **Advanced Kubernetes management, CI/CD with Jenkins, and Terraform**
+-  I’m currently learning **Advanced Kubernetes management, CI/CD with Jenkins, and Terraform**
 
-- 👯 I’m looking to collaborate on **Open-source DevOps tools development or Cloud automation scripts**
+-  I’m looking to collaborate on **Open-source DevOps tools development or Cloud automation scripts**
 
-- 👨‍💻 All of my projects are available at [www.codewitharafat.com](www.codewitharafat.com)
+-  All of my projects are available at [www.codewitharafat.com](www.codewitharafat.com)
 
-- 💬 Ask me about **DevOps, Linux, Python**
+-  Ask me about **DevOps, Linux, Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
