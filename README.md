@@ -5,6 +5,8 @@
 
 
 <p align="center"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJ6aHNsdzN4aXhvd2JocWxhZTd6bG45eDdpcjB5Y3E0eHA3emg0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="arafdewann" /> </p>
+<p align="center"> <a href="[![MD ARAFAT KOYES's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=arafdewann)](https://github.com/anmol098/waka-readme-stats)
+" alt="arafdewann" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arafdewann" alt="lines" /></a> </p>
 
@@ -30,8 +32,7 @@
 <a href="https://instagram.com/araf_dewan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="araf_dewan_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/araf dewan vlogs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="araf dewan vlogs" height="30" width="40" /></a>
 </p>
-<p align="center"> <a href="[![MD ARAFAT KOYES's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=arafdewann)](https://github.com/anmol098/waka-readme-stats)
-" alt="arafdewann" /> </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
