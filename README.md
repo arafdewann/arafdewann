@@ -16,7 +16,6 @@
 
 -  I’m currently working on **Amazon Web Services (AWS) DevOps PROJECT**
 
--  I’m currently learning **Advanced Kubernetes management, CI/CD with Jenkins, and Terraform**
 
 -  I’m looking to collaborate on **Open-source DevOps tools development or Cloud automation scripts**
 
