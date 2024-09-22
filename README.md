@@ -20,8 +20,6 @@
 
 -  I’m looking to collaborate on **Open-source DevOps tools development or Cloud automation scripts**
 
--  All of my projects are available at [www.codewitharafat.com](www.codewitharafat.com)
-
 -  Ask me about **DevOps, Linux, Python**
 
 <h3 align="left">Connect with me:</h3>
