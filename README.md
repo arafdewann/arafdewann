@@ -65,14 +65,7 @@ Windows Server • Active Directory • DHCP/DNS • VLANs • Cisco Switch Conf
 
 ---
 
-### 🌟 Current Focus  
-- CompTIA Security+ (2025) Preparation  
-- Building Network Automation Projects using **Python & Bash**  
-- Strengthening Cloud fundamentals (AWS & Azure)  
-- Advanced endpoint security & monitoring  
-
----
-
+### 
 ### 🔗 Connect with Me  
 <p align="center">
 <a href="https://www.linkedin.com/in/mdarafatkoyes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
