@@ -15,7 +15,7 @@
 ---
 
 ### 👨🏻‍💻 About Me  
-- 🎓 **Seneca Polytechnic Graduate — Computer Programming Diploma**  
+- 🎓 **Seneca Polytechnic Graduate*  
 - 💼 Currently working in **IT Support & Network Operations (GTA, Canada)**  
 - 🧠 Gaining experience in **server administration, endpoint management, network monitoring, and automation**  
 - ☁️ Passionate about **Cloud & DevOps technologies** — learning AWS, Linux, and CI/CD pipelines  
