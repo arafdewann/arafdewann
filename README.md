@@ -29,18 +29,13 @@
 <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/></a>
 <a href="https://azure.microsoft.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="45" height="45"/></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/></a>
-<a href="https://www.microsoft.com/en-us/windows-server" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Microsoft_Office_Icons_%E2%80%93_Windows_Server.svg" alt="Windows Server" width="45" height="45"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/></a>
 <a href="https://git-scm.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/></a>
 <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="45" height="45"/></a>
 <a href="https://www.docker.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/></a>
 <a href="https://www.cisco.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg" alt="Cisco Networking" width="45" height="45"/></a>
-<a href="https://www.zabbix.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Zabbix_logo_square.svg" alt="Zabbix" width="45" height="45"/></a>
 <a href="https://grafana.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="45" height="45"/></a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-intune" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Endpoint_Manager_logo.svg" alt="Intune" width="45" height="45"/></a>
-<a href="https://www.solarwinds.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/1/1c/SolarWinds_logo.svg" alt="SolarWinds" width="45" height="45"/></a>
 <a href="https://bash.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="45" height="45"/></a>
-<a href="https://www.vmware.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware_workstation_16_icon.svg" alt="VMware" width="45" height="45"/></a>
 </p>
 
 💡 **Key Tools in Daily Use:**  
