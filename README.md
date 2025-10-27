@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F0FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+MD+ARAFAT+KOYES!" alt="Hey, I'm MD ARAFAT KOYES!" />
 </p>
 
-<h3 align="center">"IT Support • Network Administration • Cloud & DevOps Enthusiast"</h3>
+<h3 align="center">IT Support • Network Administration • Cloud & DevOps Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arafdewann&label=Profile%20views&color=0e75b6&style=flat" alt="arafdewann" />
