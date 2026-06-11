@@ -16,7 +16,7 @@
 
 ### 👨🏻‍💻 About Me  
 - 🎓 **Seneca Polytechnic Graduate**  
-- 💼 Currently working in **IT Support & Network Operations (GTA, Canada)**  
+- 💼 Currently working in **IT Support & Network Operations (Canada)**  
 - 🧠 Gaining experience in **server administration, endpoint management, network monitoring, and automation**  
 - ☁️ Passionate about **Cloud & DevOps technologies** — learning AWS, Linux, and CI/CD pipelines  
 - 💬 Ask me about **IT Support, Networking, Windows Server, System Security, or Cloud Setup**  
