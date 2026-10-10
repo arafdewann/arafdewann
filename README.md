@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F0FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+MD+ARAFAT+KOYES!" alt="Hey, I'm MD ARAFAT KOYES!" />
 </p>
 
-<h3 align="center">IT Support • Network Administration • Cloud & DevOps Enthusiast</h3>
+<h3 align="center">MD ARAFAT KOYES | Operations & Scheduling at Peregrine Protection | AI & Automation Enthusiast | Aspiring AI Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arafdewann&label=Profile%20views&color=0e75b6&style=flat" alt="arafdewann" />
@@ -14,13 +14,15 @@
 
 ---
 
-### 👨🏻‍💻 About Me  
-- 🎓 **Seneca Polytechnic Graduate**  
-- 💼 Currently working in **IT Support & Network Operations (Canada)**  
-- 🧠 Gaining experience in **server administration, endpoint management, network monitoring, and automation**  
-- ☁️ Passionate about **Cloud & DevOps technologies** — learning AWS, Linux, and CI/CD pipelines  
-- 💬 Ask me about **IT Support, Networking, Windows Server, System Security, or Cloud Setup**  
-- 🎯 Goal: Become a **Cloud Infrastructure Engineer** combining IT Support, Networking, and DevOps skills  
+### 👨🏻‍💻 About Me
+
+* 🎓 Seneca Polytechnic Graduate
+* 💼 Currently working in Operations Management & Workforce Scheduling at Peregrine Protection
+* 🤖 Exploring AI Engineering, AI-powered automation, and intelligent scheduling solutions
+* 🌐 Passionate about Next-Generation Web Development and building practical applications that solve real-world problems
+* ⚙️ Learning Python, AI integration, workflow automation, and modern web technologies
+* 💬 Ask me about Operations, Workforce Scheduling, IT Support, Automation, or AI-powered applications
+* 🎯 Goal: Build intelligent software solutions by combining operations expertise, AI engineering, and web development.
 
 ---
 
